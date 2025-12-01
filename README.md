@@ -148,4 +148,6 @@ Showing All Tasks:
 
 ## Screenshots: 
 
-![Task Manager Screenshot](https://github.com/Sifathasan578/concole-to-do-list/blob/master/screenshots/one.png)
+![Task Manager Screenshot](https://github.com/Sifathasan578/concole-to-do-list/blob/master/screenshots/one.png) 
+![Task Manager Screenshot](https://github.com/Sifathasan578/concole-to-do-list/blob/master/screenshots/two.png)
+![Task Manager Screenshot](https://github.com/Sifathasan578/concole-to-do-list/blob/master/screenshots/three.png)
